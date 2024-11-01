@@ -4,7 +4,7 @@
 # Exercise 3 - Flow chart using Repeat, While and Do-While loops
 
 ### Aim:
-To create a sequence that repeats a specific task a certain number of times in UiPath.
+To create a flowchart that repeats a specific task a certain number of times using repeat, while and do while in UiPath.
 
 ### Software required:
 UiPath Studio-community edition
@@ -53,7 +53,5 @@ UiPath Studio-community edition
 The use of Repeat, While, and Do While loop in Flowchart is executed successfully
 
 
-### Result:
-Hence a welcome message in Message box with IF Condition is displayed.
 
 
